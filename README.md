@@ -1,1 +1,1 @@
-# -PONG--like-Game-on-LPC2148
+# PONG--like-Game-on-LPC2148
